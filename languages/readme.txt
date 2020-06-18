@@ -1,0 +1,1 @@
+This folder containers PO and MO files that are used for localization l10n.

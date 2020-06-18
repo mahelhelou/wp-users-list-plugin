@@ -1,0 +1,27 @@
+/* Basic Styling for Desktop */
+
+body {
+  background: #f7f7f7;
+}
+
+.header {
+  padding: 30px;
+  text-align: center;
+}
+
+.header .table__title {
+  font-size: 36px;
+}
+
+.header .table__description {
+  font-size: 22px;
+  font-weight: 300;
+}
+
+thead tr {
+  padding: 75px 0 !important;
+}
+
+tr td {
+  text-align: center;
+}
